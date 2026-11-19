@@ -2,7 +2,7 @@
 
 **A lightweight, multilingual booru tag reference for anime image generation.**
 
-[Live Demo](https://0t.is/noodai_atlas/) | [Download Archive](https://huggingface.co/spaces/donkilluminatti/noobai-xl-tag-atlas/resolve/main/NoobAI_Atlas_v12_bundle.zip)
+[Live Demo](https://huggingface.co/spaces/donkilluminatti/noobai-xl-tag-atlas) | [Download Archive](https://github.com/tony-0tis/NoobAI-XL-Tag-Atlas/archive/refs/heads/main.zip)
 
 ## About
 
